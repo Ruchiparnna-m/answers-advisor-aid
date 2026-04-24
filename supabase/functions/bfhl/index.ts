@@ -10,9 +10,9 @@ const corsHeaders = {
 
 // ====== EDIT THESE WITH YOUR DETAILS ======
 const USER = {
-  user_id: "yourname_01012000", // fullname_ddmmyyyy
-  email_id: "you@srmist.edu.in",
-  college_roll_number: "RA2111000000000",
+  user_id: "ruchiparnna_mohanty_15112003",
+  email_id: "rm4756@srmist.edu.in",
+  college_roll_number: "RA2311003050438",
 };
 // ==========================================
 
